@@ -25,12 +25,36 @@ namespace Etapa1
                         new Curso{Nombre = "301"}
             };*/
 
-            escuela.Cursos = new Curso[]{ //Se realiza la asignación directa de los cursos al atributo Curso[] Cursos de la clase Escuela 
-                        new Curso(){Nombre = "101"},
-                        new Curso(){Nombre = "201"},
-                        new Curso{Nombre = "301"}
+            escuela.Cursos = new List<Curso>(){
+                        new Curso(){Nombre = "101", Jornada = TiposJornada.Mañana},
+                        new Curso(){Nombre = "201", Jornada = TiposJornada.Mañana},
+                        new Curso{Nombre = "301", Jornada = TiposJornada.Mañana}
             };
 
+            escuela.Cursos.Add(new Curso() { Nombre = "102", Jornada = TiposJornada.Tarde });
+            escuela.Cursos.Add(new Curso() { Nombre = "202", Jornada = TiposJornada.Tarde });
+
+            var otraColeccion = new List<Curso>(){
+                        new Curso(){Nombre = "401", Jornada = TiposJornada.Mañana},
+                        new Curso(){Nombre = "501", Jornada = TiposJornada.Mañana},
+                        new Curso{Nombre = "501", Jornada = TiposJornada.Tarde}
+            };
+
+            /*escuela.Cursos.AddRange(otraColeccion); //AddRange permite asignar al final de la lista, una lista que haya sido creada en alguna otra parte
+            ImprimirCursosEscuela(escuela);
+
+            escuela.Cursos.RemoveAll(delegate (Curso cur) 
+            {
+
+                return cur.Nombre == "301";
+
+            });
+
+            //Para condiciones de evaluación simples, se puede usar una expresión lambda con "=>"
+            //Hace lo mismo que la expresión con un delegate, con la ventaja de que no es necesario especificar el tipo que recibe, ya que lo infiere
+            //y que la sintaxis es mucho más facil de leer. Aunque para expresiones de evaluación más complejas, suele utilizarce un delegate
+            escuela.Cursos.RemoveAll((cur) => cur.Nombre == "501" && cur.Jornada == TiposJornada.Mañana);*/
+            
             ImprimirCursosEscuela(escuela);
 
         }
