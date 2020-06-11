@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace CoreEscuela.Entidades
 {
     class Escuela
@@ -14,6 +16,7 @@ namespace CoreEscuela.Entidades
         public string Pais { get; set; }
         public string Ciudad { get; set; }
         public TiposEscuela TipoEscuela { get; set; }
+        public Curso[] Cursos { get; set; } //Se asocia el arreglo de cursos con la clase escuela
         public Escuela(string nombre, int año) => (Nombre, AñoDeCreación) = (nombre,año); //Asignación por tuplas
 
         public Escuela(string nombre, int año, TiposEscuela tipo, string pais ="", string ciudad="") //al asignarle a parametros del constructor, valores por defecto, quiere decir que son prescindibles u opcionales
