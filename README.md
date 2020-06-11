@@ -1,5 +1,5 @@
 # C# con .Net Core 💚
-Un repositorio de código fuente para las distintas estapas del [Fundamentos de C# con NET Core](https://platzi.com/cursos/fundamentos-csharp/ "Fundamentos de C# con NET Core") y el [Curso de C# con .Net Core](https://platzi.com/cursos/c-sharp/ "Curso de C# con .Net Core") de [Platzi](https://platzi.com/ "Platzi")
+Un repositorio de código fuente para las distintas etapas del curso [Fundamentos de C# con NET Core](https://platzi.com/cursos/fundamentos-csharp/ "Fundamentos de C# con NET Core") y el [Curso de C# con .Net Core](https://platzi.com/cursos/c-sharp/ "Curso de C# con .Net Core") de [Platzi](https://platzi.com/ "Platzi")
 > El curso C# con .Net Core forma parte de tres carreras diferentes dentro de Platzi:
 > - [Desarrollo de Apps Multiplataforma con Xamarin](https://platzi.com/multiplataforma-xamarin/ "Desarrollo de Apps Multiplataforma con Xamarin")
 > - [Desarrollo de Aplicaciones con ASP .NET](https://platzi.com/asp-net/ "Desarrollo de Aplicaciones con ASP .NET")
