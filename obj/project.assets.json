@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\venri\\OneDrive\\Escritorio\\C#\\Etapa5\\Etapa1.csproj",
+      "projectUniqueName": "C:\\Users\\venri\\OneDrive\\Escritorio\\C#\\Etapa6\\Etapa1.csproj",
       "projectName": "Etapa1",
-      "projectPath": "C:\\Users\\venri\\OneDrive\\Escritorio\\C#\\Etapa5\\Etapa1.csproj",
+      "projectPath": "C:\\Users\\venri\\OneDrive\\Escritorio\\C#\\Etapa6\\Etapa1.csproj",
       "packagesPath": "C:\\Users\\venri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\venri\\OneDrive\\Escritorio\\C#\\Etapa5\\obj\\",
+      "outputPath": "C:\\Users\\venri\\OneDrive\\Escritorio\\C#\\Etapa6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\venri\\AppData\\Roaming\\NuGet\\NuGet.Config"
