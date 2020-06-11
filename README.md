@@ -19,4 +19,4 @@ Un repositorio de código fuente para las distintas etapas del curso [Fundamento
 En los proximos días, el repositorio seguirá siendo actualizado para agregar el código fuente de las etapas posteriores hasta concluir el curso.
 > - Enrique Lino - [**@Kreisgeist**](https://twitter.com/Kreisgeist "Twitter").
 
-Si deseas ver el contenido de este curso, da [click aqui](https://platzi.com/cursos/c-sharp/ "Curso de C# con .Net Core" "a ver el curso").
+Si deseas ver el contenido de este curso, da [click aqui](https://platzi.com/cursos/c-sharp/ "a ver el curso").
