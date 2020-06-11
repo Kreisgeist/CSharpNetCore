@@ -50,3 +50,16 @@ C:\Users\venri\OneDrive\Escritorio\C#\Etapa4\obj\Debug\netcoreapp3.1\Etapa1.cspr
 C:\Users\venri\OneDrive\Escritorio\C#\Etapa4\obj\Debug\netcoreapp3.1\Etapa1.dll
 C:\Users\venri\OneDrive\Escritorio\C#\Etapa4\obj\Debug\netcoreapp3.1\Etapa1.pdb
 C:\Users\venri\OneDrive\Escritorio\C#\Etapa4\obj\Debug\netcoreapp3.1\Etapa1.genruntimeconfig.cache
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\bin\Debug\netcoreapp3.1\Etapa1.exe
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\bin\Debug\netcoreapp3.1\Etapa1.deps.json
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\bin\Debug\netcoreapp3.1\Etapa1.runtimeconfig.json
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\bin\Debug\netcoreapp3.1\Etapa1.runtimeconfig.dev.json
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\bin\Debug\netcoreapp3.1\Etapa1.dll
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\bin\Debug\netcoreapp3.1\Etapa1.pdb
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\obj\Debug\netcoreapp3.1\Etapa1.csprojAssemblyReference.cache
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\obj\Debug\netcoreapp3.1\Etapa1.AssemblyInfoInputs.cache
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\obj\Debug\netcoreapp3.1\Etapa1.AssemblyInfo.cs
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\obj\Debug\netcoreapp3.1\Etapa1.csproj.CoreCompileInputs.cache
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\obj\Debug\netcoreapp3.1\Etapa1.dll
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\obj\Debug\netcoreapp3.1\Etapa1.pdb
+C:\Users\venri\OneDrive\Escritorio\C#\Etapa5\obj\Debug\netcoreapp3.1\Etapa1.genruntimeconfig.cache
