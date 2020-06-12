@@ -15,7 +15,7 @@ Un repositorio de código fuente para las distintas etapas del curso [Fundamento
 * **Etapa 6**: Ajustes y funcionalidad.
 * **Etapa 7**: Más funcionalidades para nuestro proyecto.
 * **Etapa 8**: Consultas.
-* On building...
+* **Etapa 9**: Creando una UI de Consola.
 
 En los proximos días, el repositorio seguirá siendo actualizado para agregar el código fuente de las etapas posteriores hasta concluir el curso.
 > - Enrique Lino - [**@Kreisgeist**](https://twitter.com/Kreisgeist "Twitter").
