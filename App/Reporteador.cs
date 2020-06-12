@@ -55,9 +55,9 @@ namespace CoreEscuela.App
 
             return dicRta;
         }
-        public Dictionary<string, IEnumerable<object>> GetPromAlumXAsig()
+        public Dictionary<string, IEnumerable<AlumnoPromedio>> GetPromAlumXAsig()
         {
-            var rta = new Dictionary<string, IEnumerable<object>>();
+            var rta = new Dictionary<string, IEnumerable<AlumnoPromedio>>();
             var dicEvalXAsig = GetDicEvaluacionesXAsig();
 
             foreach (var asigConEval in dicEvalXAsig)
@@ -75,6 +75,20 @@ namespace CoreEscuela.App
             }
 
             return rta;
+        }
+        public Dictionary<string, IEnumerable<object>> GetTopPromXAsign(int top)
+        {
+            var respuesta = new Dictionary<string, IEnumerable<object>>();
+            var diccionario = GetPromAlumXAsig();
+
+            foreach (var asignatura in diccionario)
+            {
+                var topAlumnos = from eval in asignatura.Value.OrderByDescending(o => o.promedio).Take(top)
+                                select eval;
+                respuesta.Add(asignatura.Key, topAlumnos);
+            }
+
+            return respuesta;
         }
     }
 }
